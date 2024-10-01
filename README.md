@@ -1,5 +1,5 @@
 # GPM-TOY
-Gaussian Plume model for TOY test_case
+Gaussian Plume model for TOY test_case for coupling
 
 
 developed in indian institute of technology kharagpur
